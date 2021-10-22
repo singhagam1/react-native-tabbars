@@ -1,0 +1,19 @@
+{
+  "name": "@singhagam1/react-native-tabbars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhagam1/react-native-tabbars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhagam1/react-native-tabbars/issues"
+  },
+  "homepage": "https://github.com/singhagam1/react-native-tabbars#readme"
+}
